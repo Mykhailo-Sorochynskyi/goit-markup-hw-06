@@ -1,6 +1,10 @@
 # goit-markup-hw-06
 
-HW6 V6.3 Popravky vid mentora.
+<<<<<<< HEAD
+
+# HW6 V6.4 Popravky vid mentora.
+
+> > > > > > > b292943349cf40c2200e78b7c832b0b8d9cc2f37
 
 1. Burger btn;
 2. Bacground Hero;
