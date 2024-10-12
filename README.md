@@ -1,4 +1,4 @@
-# goit-markup-hw-03
+# goit-markup-hw-06
 
 HW6 V6.2 
 Popravky vid mentora. 
